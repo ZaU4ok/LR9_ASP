@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFVAgQuSPagaRJxybzJg40vv6PMQHpmGul72VRvqLFudZ8bDsz1G+VrfYIgtShp6OGpkeRzgiiolVP4vr9dcxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SuperPC\\source\\repos\\LR9_ASP\\LR9_ASP\\LR9_ASP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SuperPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
